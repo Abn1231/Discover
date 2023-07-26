@@ -6,13 +6,13 @@
 
 :root{
     --color: #fff;
-    --bg-url: url(https://github.com/Abn1231/Discover/edit/main/assets/bg-mobile.jpg);
+    --bg-url: url(https://github.com/Abn1231/Discover/tree/main/assets/bg-mobile.jpg);
     --stroke-color: rgba(255, 255, 255, 0.1);
 }
 
 .light {
     --color:#000;
-    --bg-url: url(https://github.com/Abn1231/Discover/edit/main/assets/bg-mobile-light.jpg);
+    --bg-url: url(https://github.com/Abn1231/Discover/tree/main/assets/bg-mobile-light.jpg);
     --stroke-color: rgba(0,0,0,0.5);
 }
 
@@ -96,10 +96,10 @@ footer{
 
 @media (min-width: 700px){
     :root{
-        --bg-url: url(https://github.com/Abn1231/Discover/edit/main/assets/bg-desktop.jpg);
+        --bg-url: url(https://github.com/Abn1231/Discover/tree/main/assets/bg-desktop.jpg);
     }
     .light{
-        --bg-url: url(https://github.com/Abn1231/Discover/edit/main/assets/bg-desktop-light.jpg);
+        --bg-url: url(https://github.com/Abn1231/Discover/tree/main/assets/bg-desktop-light.jpg);
     }
     body{
     margin: 10px 30%;
